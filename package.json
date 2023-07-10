@@ -1,0 +1,19 @@
+{
+  "name": "hellosingapore",
+  "version": "1.0.0",
+  "description": "gifts u a string \"Hello Singapore\" :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paddlepop25/hellosingapore.git"
+  },
+  "author": "Linda Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paddlepop25/hellosingapore/issues"
+  },
+  "homepage": "https://github.com/Paddlepop25/hellosingapore#readme"
+}
